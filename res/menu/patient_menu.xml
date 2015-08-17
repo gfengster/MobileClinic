@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="uk.co.pfc.mobileclinic.PatientActivity" >
+
+    <item
+        android:id="@+id/save"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/save" />
+    <item
+        android:id="@+id/appointment"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/appointment" />
+    <item
+        android:id="@+id/history"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/history" />
+</menu>

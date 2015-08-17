@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_patient">New Patient</string>
+    <string name="patient_search">Search</string>
+    <string name="schedual">Schedule</string>
+    <string name="about">About</string>
+</resources>
